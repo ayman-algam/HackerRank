@@ -1,40 +1,40 @@
-    #!/bin/python3
+#!/bin/python3
 
-    import math
-    import os
-    import random
-    import re
-    import sys
-
-
-    #
-    # Complete the 'flippingBits' function below.
-    #
-    # The function is expected to return a LONG_INTEGER.
-    # The function accepts LONG_INTEGER n as parameter.
-    #
-
-    def flippingBits(n):
-        # Write your code here
-        binary_number = "{0:032b}".format(n)
-
-        inverted_binary_number = ['1' if bit == '0' else '0' for bit in binary_number]
-
-        decimal_number = int(''.join(inverted_binary_number), 2)
-
-        return decimal_number
+import math
+import os
+import random
+import re
+import sys
 
 
-    if __name__ == '__main__':
-        fptr = open(os.environ['OUTPUT_PATH'], 'w')
+#
+# Complete the 'flippingBits' function below.
+#
+# The function is expected to return a LONG_INTEGER.
+# The function accepts LONG_INTEGER n as parameter.
+#
 
-        q = int(input().strip())
+def flippingBits(n):
+    # Write your code here
+    binary_number = "{0:032b}".format(n)
 
-        for q_itr in range(q):
-            n = int(input().strip())
+    inverted_binary_number = ['1' if bit == '0' else '0' for bit in binary_number]
 
-            result = flippingBits(n)
+    decimal_number = int(''.join(inverted_binary_number), 2)
 
-            fptr.write(str(result) + '\n')
+    return decimal_number
 
-        fptr.close()
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    q = int(input().strip())
+
+    for q_itr in range(q):
+        n = int(input().strip())
+
+        result = flippingBits(n)
+
+        fptr.write(str(result) + '\n')
+
+    fptr.close()
