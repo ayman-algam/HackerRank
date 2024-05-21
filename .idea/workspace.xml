@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="Flipping bits">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="Let's Review" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Day 4 - Class vs. Instance.executor": "Run",
     "Python.Day 5 - Loops.executor": "Run",
+    "Python.Day 6 - Let's Review.executor": "Run",
     "Python.Flipping bits.executor": "Run",
     "Python.Nested Lists.executor": "Run",
     "Python.main.executor": "Run",
@@ -130,13 +129,22 @@
       <option name="project" value="LOCAL" />
       <updated>1716326226397</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Let's Review">
+      <option name="closed" value="true" />
+      <created>1716327451458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716327451458</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nested Lists" />
     <MESSAGE value="Flipping bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flipping bits" />
+    <MESSAGE value="Let's Review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Let's Review" />
   </component>
 </project>
