@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="Arrays">
+    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="One month preparation kit - Diagonal Difference">
+      <change afterPath="$PROJECT_DIR$/Python/30 Day of Code/Day 08 - Dictionaries and Maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/One month preparation kit/01 - Plus Minus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/One month preparation kit/02 - Min-Max Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/One month preparation kit/03 - Time Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/One month preparation kit/04 - Sparse Arrayes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/30 Day of Code/Day 4 - Class vs. Instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/30 Day of Code/Day 04 - Class vs. Instance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/30 Day of Code/Day 5 - Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/30 Day of Code/Day 05 - Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/30 Day of Code/Day 6 - Let's Review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/30 Day of Code/Day 06 - Let's Review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/30 Day of Code/Day 7 - Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/30 Day of Code/Day 07 - Arrays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +58,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.04 - Sparse Arrayes.executor": "Run",
+    "Python.Day 08 - Dictionaries and Maps.executor": "Run",
     "Python.Day 4 - Class vs. Instance.executor": "Run",
     "Python.Day 5 - Loops.executor": "Run",
     "Python.Day 6 - Let's Review.executor": "Run",
@@ -148,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716328788408</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="One month preparation kit - Diagonal Difference">
+      <option name="closed" value="true" />
+      <created>1716512649394</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716512649394</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +176,7 @@
     <MESSAGE value="Flipping bits" />
     <MESSAGE value="Let's Review" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="One month preparation kit - Diagonal Difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="One month preparation kit - Diagonal Difference" />
   </component>
 </project>
