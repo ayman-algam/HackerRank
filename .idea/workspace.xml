@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="Let's Review" />
+    <list default="true" id="8850e8ad-c719-42f6-9fa3-7dfc0e8a4891" name="Changes" comment="Arrays">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
     "Python.Day 4 - Class vs. Instance.executor": "Run",
     "Python.Day 5 - Loops.executor": "Run",
     "Python.Day 6 - Let's Review.executor": "Run",
+    "Python.Day 7 - Arrays.executor": "Run",
     "Python.Flipping bits.executor": "Run",
     "Python.Nested Lists.executor": "Run",
     "Python.main.executor": "Run",
@@ -137,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716327451458</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1716328788408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716328788408</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +156,7 @@
     <MESSAGE value="Nested Lists" />
     <MESSAGE value="Flipping bits" />
     <MESSAGE value="Let's Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Let's Review" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
